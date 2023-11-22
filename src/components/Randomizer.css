@@ -1,0 +1,9 @@
+.Randomizer {
+  border: 2px solid yellow;
+  flex-basis: calc(50% - 20px); /* Two items in a row, considering margin */
+  padding: 20px;
+  box-sizing: border-box;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
